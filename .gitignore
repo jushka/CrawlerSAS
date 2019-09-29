@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/CrawlerSAS/v16
+/CrawlerSAS/bin/Debug
+/CrawlerSAS/obj/Debug
+/packages
